@@ -43,6 +43,8 @@
 
   Схема:
 
+  ![scheme](screenshots/1.png)
+
  
 
 
